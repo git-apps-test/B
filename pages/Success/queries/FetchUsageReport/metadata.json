@@ -2,10 +2,8 @@
   "gitSyncId": "655b663c44c3196dff1b331d_65f3bb616f79c902d953fb20",
   "id": "Success__$FetchUsageReport$_TogaiUsageMetrics",
   "isPublic": true,
-  "moduleInstanceId": "Success_FetchUsageReport",
   "pluginId": "restapi-plugin",
   "pluginType": "API",
-  "rootModuleInstanceId": "Success_FetchUsageReport",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",

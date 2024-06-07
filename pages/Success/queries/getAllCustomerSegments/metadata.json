@@ -2,10 +2,8 @@
   "gitSyncId": "655b663c44c3196dff1b331d_65f3ee1bc577b61ea87bdbd5",
   "id": "Success__$getAllCustomerSegments$_getSegmentSFCustomerSegments",
   "isPublic": true,
-  "moduleInstanceId": "Success_getAllCustomerSegments",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Success_getAllCustomerSegments",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",

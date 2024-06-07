@@ -2,10 +2,8 @@
   "gitSyncId": "655b663c44c3196dff1b331d_65f3efbfc577b61ea87bdd3b",
   "id": "Success__$getSegmentSFCasesByAccountId$_getSegmentSFCasesByAccountIdModule",
   "isPublic": true,
-  "moduleInstanceId": "Success_getSegmentSFCasesByAccountId",
   "pluginId": "postgres-plugin",
   "pluginType": "DB",
-  "rootModuleInstanceId": "Success_getSegmentSFCasesByAccountId",
   "unpublishedAction": {
     "confirmBeforeExecute": false,
     "contextType": "PAGE",
