@@ -46,8 +46,8 @@
       "appBoxShadow": "0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)"
     },
     "colors": {
-      "backgroundColor": "#f3e8ff",
-      "primaryColor": "#3b82f6"
+      "backgroundColor": "#d4d4d8",
+      "primaryColor": "#fce4da"
     },
     "fontFamily": {
       "appFont": "Nunito Sans"
